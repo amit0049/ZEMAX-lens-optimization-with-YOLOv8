@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Pandey
+    given-names: Amit
+    orcid: https://orcid.org/my-orcid?orcid=0009-0000-9790-5743
+title: "ZEMAX-lens-optimization-with-YOLOv8"
+version: 1.0.0
+identifiers:
+date-released: 2024-08-31
